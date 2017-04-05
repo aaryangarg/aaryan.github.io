@@ -4,6 +4,10 @@ layout: p5
 
 <script type='text/javascript'>loadScript('/p5/first.js');</script>
 
+
+
+
+
 var y=0
 var x=150
 function draw() { 
